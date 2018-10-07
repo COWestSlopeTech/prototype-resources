@@ -5,3 +5,4 @@ This repo strives to provide a collection of resources and references for protot
 
 ### [Hosted Services](https://github.com/RoaringForkTech/prototype-resources/blob/master/hosted-services.md)
 
+### [Open Data](https://github.com/RoaringForkTech/prototype-resources/blob/master/open-data.md)
