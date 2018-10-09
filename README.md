@@ -11,6 +11,6 @@ This repo strives to provide a collection of resources and references for protot
 
 ### [Mockups](https://github.com/RoaringForkTech/prototype-resources/blob/master/mockup-prototyping.md)
 
-... GIS Tools
+### [GIS Tools](https://github.com/RoaringForkTech/prototype-resources/blob/master/gis-tools.md)
 
 ... Analysis Tools
