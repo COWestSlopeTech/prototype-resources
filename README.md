@@ -13,4 +13,4 @@ This repo strives to provide a collection of resources and references for protot
 
 ### [Location Tools](https://github.com/RoaringForkTech/prototype-resources/blob/master/gis-tools.md)
 
-... Analysis Tools
+### [Analysis Tools](https://github.com/RoaringForkTech/prototype-resources/blob/master/analysis-tools.md)
