@@ -9,7 +9,7 @@ This repo strives to provide a collection of resources and references for protot
 
 ### [Cloud Hosting](https://github.com/RoaringForkTech/prototype-resources/blob/master/cloud-hosting.md)
 
-### [Mockups](https://github.com/RoaringForkTech/prototype-resources/blob/master/mockup-prototyping.md)
+### [Mockup Tools](https://github.com/RoaringForkTech/prototype-resources/blob/master/mockup-prototyping.md)
 
 ### [Location Tools](https://github.com/RoaringForkTech/prototype-resources/blob/master/gis-tools.md)
 
