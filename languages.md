@@ -7,6 +7,8 @@
 
 ### Python
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter)
+* [Flask](http://flask.pocoo.org/)
+* [Flask Hackathon Starter](https://github.com/ojengwa/Flask-Hackathon-Starter)
 
 ### Ruby
 * [Rails Composer](https://github.com/RailsApps/rails-composer/)
