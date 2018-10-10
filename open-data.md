@@ -24,6 +24,7 @@
 
 ## National
 * [Tons of Public Data](https://github.com/toddmotto/public-apis)
+* [Loveland](https://makeloveland.com/) - Parcels for the nation.
 
 ## Global
 * [Google Public Data](https://www.google.com/publicdata/directory)
