@@ -14,7 +14,8 @@
 * [Rails Composer](https://github.com/RailsApps/rails-composer/)
 
 ### Android
-* [Android Firebase Hackathon Starter](https://github.com/mimming/Android-Firebase-Hackathon-Starter)
+* [Android Firebase Hackathon Starter](https://github.com/mimming/Android-Firebase-Hackathon-Starter) - Java.
+* [Android/Kotlin Starter](https://github.com/androidstarters/kotlin-android-starter) - Android development, using the Kotlin language instead of Java.
 
 ## Cross Platform App Languages
 * [Flutter](https://github.com/flutter/flutter)
