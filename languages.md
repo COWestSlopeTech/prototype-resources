@@ -19,6 +19,7 @@
 ## Cross Platform App Languages
 * [Flutter](https://github.com/flutter/flutter)
 * [React Native](https://github.com/facebook/react-native)
+* [NativeScript](https://www.nativescript.org/)
 
 ## Data Visualization Tools
 ### General Visualization
